@@ -1,4 +1,4 @@
 #idea config
 *.iml
 ds_a/.idea/
-
+ds_a/target/
